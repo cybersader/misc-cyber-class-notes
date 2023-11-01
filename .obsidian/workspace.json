@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "1c4ba242286d0d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "87a18352683eb79e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b682b85e397a8990",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hal Pomeranz - Linux Command Line/Q&A.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d494550939a5870c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hal Pomeranz - Linux Command Line/EXERCISES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa57a0b1044a0ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hal Pomeranz - Linux Command Line/Presentation Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f3b943dbee19ebf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7389709ebd6394bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "316ec21fd24bf234",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "62e5500ed8a8ceb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddd8aeb8931b1a02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a880893445f6ddc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dd763de3a3112e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9e926b2436908dd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hal Pomeranz - Linux Command Line/Presentation Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da45fb764aa04487",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hal Pomeranz - Linux Command Line/Presentation Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ce7cc45a1094dd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38bfb51ad44110ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hal Pomeranz - Linux Command Line/Presentation Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dfa57a0b1044a0ec",
+  "lastOpenFiles": [
+    "Hal Pomeranz - Linux Command Line/Q&A.md",
+    "Hal Pomeranz - Linux Command Line/EXERCISES.md",
+    "Hal Pomeranz - Linux Command Line/Presentation Notes.md",
+    "__attachments/Hal Pomeranz - Linux Command Line",
+    "__attachments",
+    "__attachments/Hal Pomeranz - Linux Command Line/IMG-20231101103846983.png",
+    "Pasted image 20231101103754.png",
+    "Hal Pomeranz - Linux Command Line/LinuxCmdLine.pdf",
+    "Hal Pomeranz - Linux Command Line/Intro - Hal, Why Linux CLI.md",
+    "Hal Pomeranz - Linux Command Line"
+  ]
+}
