@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hal Pomeranz - Linux Command Line/Presentation Notes.md",
+                "file": "Hal Pomeranz - Linux Command Line/EXERCISES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hal Pomeranz - Linux Command Line/Presentation Notes.md",
+                "file": "Hal Pomeranz - Linux Command Line/EXERCISES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hal Pomeranz - Linux Command Line/Presentation Notes.md"
+                "file": "Hal Pomeranz - Linux Command Line/EXERCISES.md"
               }
             }
           }
@@ -173,11 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfa57a0b1044a0ec",
+  "active": "d494550939a5870c",
   "lastOpenFiles": [
-    "Hal Pomeranz - Linux Command Line/Q&A.md",
-    "Hal Pomeranz - Linux Command Line/EXERCISES.md",
     "Hal Pomeranz - Linux Command Line/Presentation Notes.md",
+    "Hal Pomeranz - Linux Command Line/EXERCISES.md",
+    "__attachments/Hal Pomeranz - Linux Command Line/IMG-20231102083655596.png",
+    "Hal Pomeranz - Linux Command Line/Q&A.md",
     "__attachments/Hal Pomeranz - Linux Command Line",
     "__attachments",
     "__attachments/Hal Pomeranz - Linux Command Line/IMG-20231101103846983.png",
